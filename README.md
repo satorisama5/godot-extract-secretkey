@@ -1,4 +1,4 @@
-# gobot-extract-secretkey
+# godot-extract-secretkey
 用py文件简单获取godot引擎exe产生的密钥  
 之前尝试逆向一个godot写的游戏，无奈游戏加密的代码段过多（数值加密之类的），最后想着直接逆向获取源文件  
 在github上有可用的直接获取godot源文件的项目，但是无法直接用它获取key（如果gobot游戏加密）  
